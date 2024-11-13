@@ -1,6 +1,8 @@
 # Accelerated Science 
 # Open Accelerated Discovery for Drug and Materials Discovery
 
+This project is dedicated to simplifying acccess to computation chemistry models , data and assets for the purposes of furthering scientific discovery.
+
 ![Screenshot 2024-11-13 at 9 20 09 AM](https://github.com/user-attachments/assets/684f090b-92a8-41a0-a805-5fd38204d5f4)
 
 This project is focused on the simplifying and standardising access to open-source data and generative AI models for Drug and Materials Discovery

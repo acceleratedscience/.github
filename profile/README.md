@@ -5,7 +5,6 @@ This project is dedicated to simplifying acccess to computation chemistry models
 
 <img src="https://github.com/user-attachments/assets/684f090b-92a8-41a0-a805-5fd38204d5f4" width="30%" height="30%" >
 
-This project is focused on the simplifying and standardising access to open-source data and generative AI models for Drug and Materials Discovery
 
 ## Useful Links
 - **Homepage**<br>

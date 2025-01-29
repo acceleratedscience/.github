@@ -10,7 +10,7 @@ This project is dedicated to simplifying acccess to computation chemistry models
 - **Homepage**<br>
   [accelerate.science/projects/openad](https://accelerate.science/projects/openad)
 - **GitHub**<br>
-  [github.com/acceleratedscience/open-ad-toolkit](https://github.com/acceleratedscience/openad-toolkit)
+  [github.com/acceleratedscience/openad-toolkit](https://github.com/acceleratedscience/openad-toolkit)
 - **Pip install**<br>
   [pypi.org/project/openad](https://pypi.org/project/openad)
 - **Documentation**<br>

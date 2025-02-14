@@ -1,7 +1,7 @@
 # Accelerated Science 
-# Open Accelerated Discovery for Drug and Materials Discovery
+# Open Accelerated Discovery for Materials and Drug Discovery
 
-This project is dedicated to simplifying acccess to computation chemistry models , data and assets for the purposes of furthering scientific discovery.
+Dedicated to simplifying access to computational chemistry models, data and assets, to further scientific discovery.
 
 <img src="https://github.com/user-attachments/assets/684f090b-92a8-41a0-a805-5fd38204d5f4" width="30%" height="30%" >
 
@@ -23,16 +23,16 @@ This project is dedicated to simplifying acccess to computation chemistry models
   Installable toolkit to simplify AI workflows for small molecules and proteins, with vivid 2D and 3D interactive visualizations. Easily handles dozens to hundreds of different models. Simple API using Jupyter notebooks (IPython Magic commands) or the command line. 
 <br> <img src="https://github.com/user-attachments/assets/226d5a39-5098-4d8f-bcb9-7990e0277edc" width="30%" height="30%" >
 
-  ### OpenAD Model Service for Bio Medical Foundation Model Small Molecule Properties 
+  ### OpenAD Model Service for BioMedical Foundation Model Small Molecule Properties 
   [BMFM Small Molecule Properties](https://github.com/acceleratedscience/bmfm-sm)
   
-  ### OpenAD Model Service for Bio Medical Foundation Model Protein Properties 
+  ### OpenAD Model Service for BioMedical Foundation Model Protein Properties 
   [BMFM Protein Properties](https://github.com/acceleratedscience/bmfm_mammal_inference)
 
-  ### OpenAD Model Wrapper
-  Wrapper for creating a Open AD Model Service. Services can be run locally in a virtual environment (venv or conda env), in a container, or deployed on OpenShift or other Kubernetes.
+  ### OpenAD Model Wrapper for model services
+  Wrapper to make any model into a model service usable in OpenAD toolkit. Model services can be run locally in a virtual environment (venv or conda env), in a container, or deployed on OpenShift or other Kubernetes.
   [openad_service_utils](https://github.com/acceleratedscience/openad_service_utils)
 
-  ### OpenAD Proxy for Model services
+  ### OpenAD Bridge for model services
   [Secure Model Proxy](https://github.com/acceleratedscience/guardian)
-  Simple Proxy for delivering secure model services in on Openshift/Kubernetes or through a fire wall
+  Simple proxy for delivering secure model services on Openshift, any other Kubernetes, or through a firewall.

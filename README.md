@@ -1,5 +1,5 @@
 # Accelerated Science 
-# Open Accelerated Doscovery for Drug and Materials Discovery
+# Open Accelerated Discovery for Drug and Materials Discovery
 
 ![Screenshot 2024-11-13 at 9 20 09 AM](https://github.com/user-attachments/assets/684f090b-92a8-41a0-a805-5fd38204d5f4)
 

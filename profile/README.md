@@ -1,7 +1,7 @@
 # Accelerated Science 
 # Open Accelerated Discovery for Drug and Materials Discovery
 
-This project is dedicated to simplifying acccess to computation chemistry models , data and assets for the purposes of furthering scientific discovery.
+This project is dedicated to simplifying access to computation chemistry models, data and assets for the purposes of furthering scientific discovery.
 
 <img src="https://github.com/user-attachments/assets/684f090b-92a8-41a0-a805-5fd38204d5f4" width="30%" height="30%" >
 
